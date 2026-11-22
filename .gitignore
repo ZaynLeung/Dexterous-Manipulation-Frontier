@@ -1,0 +1,9 @@
+.DS_Store
+.history
+.py
+.claude
+.codex
+.acl-recovery/
+*.zip
+_src/
+
